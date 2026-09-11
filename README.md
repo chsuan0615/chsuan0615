@@ -1,4 +1,4 @@
 # Hi there 👋
 
-I am a university student majoring in artificial intelligence.
-I am interested in data science and medical AI.
+I'm a university student majoring in artificial intelligence.
+I'm interested in data science and medical AI.
